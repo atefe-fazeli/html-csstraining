@@ -284,6 +284,7 @@ nav li a:hover {
   }
   .navbar nav li.go-premium-cta a:hover {
     background: var(--primary-color);
+
     color: white;
   }
 }
